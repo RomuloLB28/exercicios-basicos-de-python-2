@@ -6,3 +6,4 @@ for i in range(3):
     soma += num
 
 print(f"a soma dos valores digitados foi:{soma}")
+

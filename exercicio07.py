@@ -7,3 +7,4 @@ graus_celsius = 5*(graus_fahrenheit-32)/9
 print(f"o valor da temperatura em Celsius é: {graus_celsius}°C")
 
 
+
