@@ -1,3 +1,4 @@
+#escreva um programa que plote um gráfico usando a biblioteca matplotlib
 import matplotlib.pyplot as plt
 
 x = [1,2,3,4,5,6,7,8,9]
